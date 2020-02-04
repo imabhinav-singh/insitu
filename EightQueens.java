@@ -1,4 +1,4 @@
-/*
+/* Assignment 1:- 8Queens Problem using Uniform Cost Search Algorithm
  * State Space:- An 8X8 matrix with any arrangement of n<=8 queens
  * Initial State:- No queens on the board(i.e., all entries are null)
  * 				- - - - - - - -
@@ -117,14 +117,19 @@ public class EightQueens
 	//display valid state
 	void display(String arr)
 	{
+		System.out.print(" ");
+		for(int i=0;i<SIZE;i++)
+			System.out.print("__ ");
+		System.out.println();
 		for(int i=0;i<SIZE;i++)
 		{
+			System.out.print("|");
 			for(int j=0;j<SIZE;j++)
 			{
-				if(arr.charAt(SIZE*i+j)=='1')System.out.print("Q ");
-				else System.out.print("_ ");
+				if(arr.charAt(SIZE*i+j)=='1')System.out.print("██|");
+				else System.out.print("__|");
 			}
-		System.out.println();
+			System.out.println();
 		}
 	}
 	
@@ -154,9 +159,9 @@ public class EightQueens
 			//if the state is valid and solution is complete
 			if(i==obj.SIZE)
 			{
-				System.out.println("----Solution "+count+"----");
+				System.out.println("========Solution "+count+"========");
 				obj.display(ans);
-				System.out.println("-------------------\n");
+				System.out.println("===========================\n");
 				count++;
 			}
 			else
