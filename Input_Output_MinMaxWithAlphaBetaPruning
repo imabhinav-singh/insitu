@@ -1,1 +1,254 @@
+When n = 14,
+1) AI vs human:-
+Enter the number of sticks
+14
+Do you want to go first? [0/1]
+1
+How many sticks do you pick?
+1
+13 sticks left.
+I pick 3 sticks. 10 sticks left.
+How many sticks do you pick?
+1
+9 sticks left.
+I pick 3 sticks. 6 sticks left.
+How many sticks do you pick?
+1
+5 sticks left.
+I pick 3 sticks. 2 sticks left.
+How many sticks do you pick?
+1
+1 sticks left.
+You win
 
+Enter the number of sticks
+14
+Do you want to go first? [0/1]
+0
+Ok, so I will go first...
+I pick 1 sticks. 13 sticks left.
+How many sticks do you pick?
+1
+12 sticks left.
+I pick 3 sticks. 9 sticks left.
+How many sticks do you pick?
+1
+8 sticks left.
+I pick 3 sticks. 5 sticks left.
+How many sticks do you pick?
+1
+4 sticks left.
+I pick 3 sticks. 1 sticks left.
+You lose
+
+2) AI vs AI:-
+Enter the number of sticks
+14
+Player 1: I pick 1 sticks. 
+13 sticks left.
+Player 2: I pick 3 sticks. 
+10 sticks left.
+Player 1: I pick 1 sticks. 
+9 sticks left.
+Player 2: I pick 3 sticks. 
+6 sticks left.
+Player 1: I pick 1 sticks. 
+5 sticks left.
+Player 2: I pick 3 sticks. 
+2 sticks left.
+Player 1: I pick 1 sticks. 
+1 sticks left.
+Player 1 won
+
+When n = 21,
+1) AI vs Human:-
+Enter the number of sticks
+21
+Do you want to go first? [0/1]
+0
+Ok, so I will go first...
+I pick 3 sticks. 18 sticks left.
+How many sticks do you pick?
+3
+15 sticks left.
+I pick 2 sticks. 13 sticks left.
+How many sticks do you pick?
+3
+10 sticks left.
+I pick 1 sticks. 9 sticks left.
+How many sticks do you pick?
+3
+6 sticks left.
+I pick 1 sticks. 5 sticks left.
+How many sticks do you pick?
+1
+4 sticks left.
+I pick 3 sticks. 1 sticks left.
+You lose
+
+Enter the number of sticks
+21
+Do you want to go first? [0/1]
+1
+How many sticks do you pick?
+3
+18 sticks left.
+I pick 1 sticks. 17 sticks left.
+How many sticks do you pick?
+3
+14 sticks left.
+I pick 1 sticks. 13 sticks left.
+How many sticks do you pick?
+1
+12 sticks left.
+I pick 3 sticks. 9 sticks left.
+How many sticks do you pick?
+1
+8 sticks left.
+I pick 3 sticks. 5 sticks left.
+How many sticks do you pick?
+1
+4 sticks left.
+I pick 3 sticks. 1 sticks left.
+You lose
+
+2) AI vs AI
+Player 1: I pick 3 sticks. 
+18 sticks left.
+Player 2: I pick 1 sticks. 
+17 sticks left.
+Player 1: I pick 3 sticks. 
+14 sticks left.
+Player 2: I pick 1 sticks. 
+13 sticks left.
+Player 1: I pick 3 sticks. 
+10 sticks left.
+Player 2: I pick 1 sticks. 
+9 sticks left.
+Player 1: I pick 3 sticks. 
+6 sticks left.
+Player 2: I pick 1 sticks. 
+5 sticks left.
+Player 1: I pick 3 sticks. 
+2 sticks left.
+Player 2: I pick 1 sticks. 
+1 sticks left.
+Player 2 won
+
+When n = 53,
+1) AI vs Human:-
+Enter the number of sticks
+53
+Do you want to go first? [0/1]
+0
+Ok, so I will go first...
+I pick 3 sticks. 50 sticks left.
+How many sticks do you pick?
+1
+49 sticks left.
+I pick 3 sticks. 46 sticks left.
+How many sticks do you pick?
+1
+45 sticks left.
+I pick 3 sticks. 42 sticks left.
+How many sticks do you pick?
+1
+41 sticks left.
+I pick 3 sticks. 38 sticks left.
+How many sticks do you pick?
+1
+37 sticks left.
+I pick 3 sticks. 34 sticks left.
+How many sticks do you pick?
+1
+33 sticks left.
+I pick 3 sticks. 30 sticks left.
+How many sticks do you pick?
+1
+29 sticks left.
+I pick 3 sticks. 26 sticks left.
+How many sticks do you pick?
+1
+25 sticks left.
+I pick 3 sticks. 22 sticks left.
+How many sticks do you pick?
+1
+21 sticks left.
+I pick 3 sticks. 18 sticks left.
+How many sticks do you pick?
+1
+17 sticks left.
+I pick 3 sticks. 14 sticks left.
+How many sticks do you pick?
+1
+13 sticks left.
+I pick 3 sticks. 10 sticks left.
+How many sticks do you pick?
+1
+9 sticks left.
+I pick 3 sticks. 6 sticks left.
+How many sticks do you pick?
+1
+5 sticks left.
+I pick 3 sticks. 2 sticks left.
+How many sticks do you pick?
+1
+1 sticks left.
+You win
+
+2) AI vs AI
+Enter the number of sticks
+53
+Player 1: I pick 3 sticks. 
+50 sticks left.
+Player 2: I pick 1 sticks. 
+49 sticks left.
+Player 1: I pick 3 sticks. 
+46 sticks left.
+Player 2: I pick 1 sticks. 
+45 sticks left.
+Player 1: I pick 3 sticks. 
+42 sticks left.
+Player 2: I pick 1 sticks. 
+41 sticks left.
+Player 1: I pick 3 sticks. 
+38 sticks left.
+Player 2: I pick 1 sticks. 
+37 sticks left.
+Player 1: I pick 3 sticks. 
+34 sticks left.
+Player 2: I pick 1 sticks. 
+33 sticks left.
+Player 1: I pick 3 sticks. 
+30 sticks left.
+Player 2: I pick 1 sticks. 
+29 sticks left.
+Player 1: I pick 3 sticks. 
+26 sticks left.
+Player 2: I pick 1 sticks. 
+25 sticks left.
+Player 1: I pick 3 sticks. 
+22 sticks left.
+Player 2: I pick 1 sticks. 
+21 sticks left.
+Player 1: I pick 3 sticks. 
+18 sticks left.
+Player 2: I pick 1 sticks. 
+17 sticks left.
+Player 1: I pick 3 sticks. 
+14 sticks left.
+Player 2: I pick 1 sticks. 
+13 sticks left.
+Player 1: I pick 3 sticks. 
+10 sticks left.
+Player 2: I pick 1 sticks. 
+9 sticks left.
+Player 1: I pick 3 sticks. 
+6 sticks left.
+Player 2: I pick 1 sticks. 
+5 sticks left.
+Player 1: I pick 3 sticks. 
+2 sticks left.
+Player 2: I pick 1 sticks. 
+1 sticks left.
+Player 2 won
